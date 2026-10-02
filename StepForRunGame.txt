@@ -1,0 +1,15 @@
+Hii I am Harshul:
+
+Move to the topic how you can play this game? in your computer or laptop? here I share steps you follow and play it very well I only make level1 but it was intermediate level.
+
+Step 1 => Unity version editor version 6000.5.8f1 
+          Visual studio 2022
+
+Step 2 => I only upload zip file so unzip all.
+
+Step 3 => Make one folder and give me like example: Pixel Advanture 2D (IN your specific disk)
+
+Step 4 => Then Upload all zip in this folder and unzip then run the project in unity editor it will take time.
+
+Step 5 => Open script folder in project panel then double click in any script you can see the it will be opening in your Visual Studio 
+
